@@ -2,7 +2,7 @@
   "accentColor": "{{appsmith.theme.colors.primaryColor}}",
   "animateLoading": true,
   "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
-  "bottomRow": 86,
+  "bottomRow": 109,
   "boxShadow": "{{appsmith.theme.boxShadow.appBoxShadow}}",
   "childStylesheet": {
     "button": {
@@ -450,7 +450,7 @@
   "serverSidePaginationEnabled": true,
   "tableData": "{{FindQuery.data}}",
   "textSize": "0.875rem",
-  "topRow": 7,
+  "topRow": 30,
   "type": "TABLE_WIDGET_V2",
   "version": 3,
   "verticalAlignment": "CENTER",
